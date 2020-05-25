@@ -6,4 +6,4 @@ Feature: Basic Validation
         When click on KART button 
         And must be redirected to Shopping Cart
         And click on LEARN MORE button
-        Then GIFT CARDS appears correctly
+        Then About the Shopping Cart appears correctly
