@@ -1,6 +1,6 @@
 # ruby_automation_project
 **Project:** <br>
-**Descriptio:** Web automation of amazon page <br>
+**Description:** Web automation of amazon page <br>
 **Version:** 1.0 <br>
 **Created:** 2020-05-24
 <br><br>
@@ -8,9 +8,11 @@
 Automating projects with Ruby and BDD (Behavior Driven Development using Cucumber) on the web browser.
 
 
+
+
 ### Environment Configuration ###
 
-### Install ###
+### Installation ###
 
  **Visual Studio Code**
    - url: https://code.visualstudio.com/
@@ -20,6 +22,8 @@ Automating projects with Ruby and BDD (Behavior Driven Development using Cucumbe
 
  **Allure Report**
   - url: https://docs.qameta.io/allure/#_installing_a_commandline
+
+
 
 
 
@@ -52,6 +56,8 @@ Automating projects with Ruby and BDD (Behavior Driven Development using Cucumbe
 
 
 
-
-**Company:** xxxxxx
 **E-mail:** luiz.gmacedo@gmail.com
+
+
+
+
