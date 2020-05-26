@@ -1,5 +1,9 @@
 require 'capybara/cucumber'
 require 'selenium-webdriver'
+require_relative 'helper.rb'
+require 'rspec'
+
+World(Helper)
 
 Capybara.configure do |config|
     config.default_driver = :selenium_chrome
