@@ -20,8 +20,8 @@ Automating projects with Ruby and BDD (Behavior Driven Development using Cucumbe
  **Ruby**   
    - url: https://medium.com/@terrenceong/ruby-development-with-vs-code-fab258db5f1d
 
- **Allure Report**
-  - url: https://docs.qameta.io/allure/#_installing_a_commandline
+ **Cucumber Report**
+  - url: https://cucumber.io/docs/cucumber/reporting/
 
 
 
